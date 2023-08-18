@@ -24,6 +24,8 @@ dependencies:
 - servant
 - servant-server
 - warp
+- JuicyPixels
+- bytestring
 
 ghc-options:
 - -Wall
